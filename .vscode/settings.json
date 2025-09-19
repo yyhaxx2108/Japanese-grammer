@@ -1,0 +1,5 @@
+{
+  "editor.tabCompletion": "onlySnippets",
+  "editor.snippetSuggestions": "top",
+  "editor.quickSuggestions": { "other": true, "comments": false, "strings": true }
+}
